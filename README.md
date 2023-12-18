@@ -1,5 +1,7 @@
 # PythonDeliveryService
 
+Author: Cassandra Beauchamp
+
 A program written for a Data structures and Algorithms class.
 
 The objective was to deliver packages, given specific instructions for certain packages, with the least amount of mileage for the trucks.
